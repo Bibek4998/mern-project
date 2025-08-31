@@ -2,7 +2,7 @@ name: MERN App CI/CD
 
 on:
   push:
-    branches: [ feat-new ]
+    branches: [ feat-nwe ]
   workflow_dispatch:
 
 jobs:
